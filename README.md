@@ -29,6 +29,12 @@
 wget -O anytls_manager.sh https://raw.githubusercontent.com/jiasongji/AnyTLS-Go-Script/refs/heads/main/anytls_manager.sh
 ````
 
+下载并安装脚本：
+
+```bash
+wget -O anytls_manager.sh https://raw.githubusercontent.com/jiasongji/AnyTLS-Go-Script/refs/heads/main/anytls_manager.sh && ./anytls_manager.sh install
+````
+
 或者
 
 ```bash
